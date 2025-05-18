@@ -1,6 +1,5 @@
 # 🔐 Trabalho 1 - Implementação do S-DES (Simplified DES)
 
-![Banner do Projeto](./docs/assets/banner.png)
 
 > Implementação em Python do algoritmo S-DES com modos de operação ECB e CBC, desenvolvido para a disciplina de Segurança da Informação.
 
