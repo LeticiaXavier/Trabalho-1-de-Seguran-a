@@ -1,6 +1,35 @@
-# Trabalho 1 de Segurança
- Primeiro trabalho da materia de segurança computacional UnB
+# 🔐 Trabalho 1 - Implementação do S-DES (Simplified DES)
 
-# Resultado das funções
- 
-![Diagrama S-DES](Teste.png)
+![Banner do Projeto](./docs/assets/banner.png)
+
+> Implementação em Python do algoritmo S-DES com modos de operação ECB e CBC, desenvolvido para a disciplina de Segurança da Informação.
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/github/license/LeticiaXavier/Trabalho-1-de-Seguran-a)](LICENSE)
+
+## 📌 Tabela de Conteúdos
+- [Recursos Principais](#-recursos-principais)
+- [Instalação](#-instalação)
+- [Utilização](#-utilização)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Testes e Validação](#-testes-e-validação)
+- [Contribuição](#-contribuição)
+- [Referências](#-referências)
+- [Licença](#-licença)
+
+## 🚀 Recursos Principais
+- Implementação completa do S-DES
+- Modos de operação:
+  - ✅ ECB (Electronic Codebook)
+  - ✅ CBC (Cipher Block Chaining)
+- Geração de subchaves (K1 e K2)
+- Funções básicas:
+  - Permutação P10/P8
+  - Expansão E/P
+  - S-Boxes (S0 e S1)
+  - XOR bit-a-bit
+
+## 💻 Instalação
+1. Clone o repositório:
+```bash
+git clone https://github.com/LeticiaXavier/Trabalho-1-de-Seguran-a.git
