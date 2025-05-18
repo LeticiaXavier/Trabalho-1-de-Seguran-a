@@ -28,8 +28,9 @@
   - Expansão E/P
   - S-Boxes (S0 e S1)
   - XOR bit-a-bit
-    
-![Resultados dos Testes](https://raw.githubusercontent.com/LeticiaXavier/Trabalho-1-de-Seguran-a/main/docs/imagens/Teste.png)
+## Resultados dos Testes
+![Diagrama S-DES](Teste.png)
+
 ## 💻 Instalação
 1. Clone o repositório:
 ```bash
