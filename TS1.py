@@ -1,6 +1,6 @@
 # Implementação do S-DES (Simplified DES)
-# Letícia Xavier - 190142685
-
+# @Autor 1: Letícia Xavier - 190142685
+# @Autor 2: Gustavo Vieira - 222012872
 # Função de permutação 
 def permutar(bits, tabela):
     return ''.join(bits[i - 1] for i in tabela)
