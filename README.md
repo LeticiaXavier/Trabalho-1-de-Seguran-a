@@ -12,9 +12,6 @@
 - [Utilização](#-utilização)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Testes e Validação](#-testes-e-validação)
-- [Contribuição](#-contribuição)
-- [Referências](#-referências)
-- [Licença](#-licença)
 
 ## 🚀 Recursos Principais
 - Implementação completa do S-DES
